@@ -194,7 +194,7 @@ export function MainLayout({ children }: MainLayoutProps) {
           </p>
           <div className="flex items-center gap-4">
             <a 
-              href="https://github.com/yourusername/contest-tracker" 
+              href="https://github.com/SahilSuman1011/Contests-tracker-platform" 
               target="_blank" 
               rel="noopener noreferrer"
               className="text-sm text-muted-foreground hover:text-foreground transition-colors"
