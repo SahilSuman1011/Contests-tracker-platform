@@ -29,6 +29,19 @@ CodeContest Tracker is a web application designed to help competitive programmer
 - **Auto-Fetch Solutions**: Automatically fetch and link YouTube solution videos from platform-specific playlists
 - **YouTube API Integration**: Matches contest names with video titles to find relevant solutions
 
+
+## User Interface Screenshots : 
+- Landing Page : ![image](https://github.com/user-attachments/assets/cafa066d-a755-4145-b0f3-abe97864ed14)
+- Features : ![image](https://github.com/user-attachments/assets/4546baea-c8e3-40f3-90e5-59ecaf860ac3)
+- Footer : ![image](https://github.com/user-attachments/assets/bbd632fa-2c17-4bf5-9eaf-f7d6b409528d)
+- Contests Page : ![image](https://github.com/user-attachments/assets/216e75b0-6894-42d5-bd35-b2dde5a2bb59) ![image](https://github.com/user-attachments/assets/14f924bc-cf66-491c-9e2c-2ed72fbdee16)
+- Bookmarks Page : ![image](https://github.com/user-attachments/assets/11e3bb69-b406-4073-8689-86c9afbffe12)
+- Admin Panel : ![image](https://github.com/user-attachments/assets/d18ace4e-b8fc-4072-bf41-c56ea620bcd5)
+
+  
+
+
+
 ## Technical Implementation
 
 ### Frontend
